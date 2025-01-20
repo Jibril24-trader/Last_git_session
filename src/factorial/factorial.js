@@ -5,3 +5,6 @@ const factotial = (number) => {
   
     return number * factotial(number - 1);
   };
+
+  console.log(factorial(10));
+  console.log(factorial(2));

@@ -1,1 +1,0 @@
-const even=(...numbers) => mubers.filter((number) => number %2 === 0);
